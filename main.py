@@ -1,5 +1,5 @@
 import torch
-from models import BigramLanguageModel
+from models import NGramLanguageModel
 
 
 # define hyperparameters
@@ -62,8 +62,7 @@ def estimate_loss(model):
     return out
 
 
-model = BigramLanguageModel(vocab_size, n_embedding_dimensions, block_size, num_heads, num_layers, dropout)
-
+model = NGramLanguageModel(vocab_size, n_embedding_dimensions, block_size, num_heads, num_layers, dropout)
 # TRAIN MODEL ------------------------------------------------------
 # model = model.to(device)
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)

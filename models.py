@@ -79,7 +79,7 @@ class Block(nn.Module):
         return x
 
 
-class BigramLanguageModel(nn.Module):
+class NGramLanguageModel(nn.Module):
     def __init__(self, vocab_size, n_embedding_dimensions, block_size, num_heads, num_layers, dropout):
         super().__init__()
         self.block_size = block_size
