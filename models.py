@@ -35,7 +35,6 @@ class MultiHeadAttention(nn.Module):
         super().__init__()
         # self, head_size, n_embd, block_size, dropout
         self.heads = nn.ModuleList([Head(head_size, n_embd, block_size, dropout) for _ in range(num_heads)])
-        # for resdiual connection... I think? idk
         self.projection = nn.Linear(n_embd, n_embd)
         self.dropout = nn.Dropout(dropout)
 
