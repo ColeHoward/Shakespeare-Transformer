@@ -83,7 +83,7 @@ class NGramLanguageModel(nn.Module):
         super().__init__()
         self.block_size = block_size
         self.token_embedding_table = nn.Embedding(vocab_size, n_embedding_dimensions)
-        # we also want to encode the position of tokens, not just the value
+        # encode the position of tokens, not just the value
         self.position_embedding_table = nn.Embedding(block_size, n_embedding_dimensions)
         self.blocks = nn.Sequential(*[Block(n_embedding_dimensions, num_heads, block_size, dropout) for _ in range(num_layers)])
         self.layer_norm = nn.LayerNorm(n_embedding_dimensions)
