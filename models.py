@@ -19,7 +19,6 @@ class Head(nn.Module):
         B, T, C = x.shape
         k = self.key(x)
         q = self.query(x)
-        # compute attention scores ("affinities")
         weights = q @ k.transpose(-2, -1) * C ** -.5  # (B T, C) @ (B, C, T) -> (B, T, T)
         weights = weights.masked_fill(self.tril[:T, :T] == 0, float('-inf'))  # (B, T, T)
         weights = F.softmax(weights, dim=-1)  # (B, T, T)
