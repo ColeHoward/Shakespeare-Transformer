@@ -8,34 +8,34 @@ is nonsense.
 
 
 Example Output:
->>Is a more this pomperve
->>Till a trummbling to gently stand whats is the
->>Towards, and no be ambistood of betters his
->>nipment.
+>Is a more this pomperve
+>Till a trummbling to gently stand whats is the
+>Towards, and no be ambistood of betters his
+>nipment.
+>
+>**BRAKENBURY:**
+>Grief-horse bear
+>With that from god revenges from Clarence,
+>That he was not behold them their fruit see.
+>Pray yet says me not digned see:
+>Your arms-creature starding, your Clareter, youngence,
+>acord merry thee cabbardon from me hus of his lent
+>And now meanly your nrothes,
+>From your father's weed; yet your house shall on
+>You have no were from monum: march you arecept we of;
+>Though you were he or made over-made
+>I wouldst of his end from them I will.
+>But he do you in this feel, what I have seen a
+>man to me.
+>
+>**POLIXENES:**
+>Rather is the live was a Mortalus, lies mochles
+>Of this father half to know of nursty payer
+>Consur'd: I happy yours
+>So stand signoon-shut right.
 
->>BRAKENBURY:
->>Grief-horse bear
->>With that from god revenges from Clarence,
->>That he was not behold them their fruit see.
->>Pray yet says me not digned see:
->>Your arms-creature starding, your Clareter, youngence,
->>acord merry thee cabbardon from me hus of his lent
->>And now meanly your nrothes,
->>From your father's weed; yet your house shall on
->>You have no were from monum: march you arecept we of;
->>Though you were he or made over-made
->>I wouldst of his end from them I will.
->>But he do you in this feel, what I have seen a
->>man to me.
-
->>POLIXENES:
->>Rather is the live was a Mortalus, lies mochles
->>Of this father half to know of nursty payer
->>Consur'd: I happy yours
->>So stand signoon-shut right.
-
->>Comman:
->>I till not dispise this face shun by here.
->>Thus deed, sit with his that based and famous;
->>Sworn'd then, it is were man envy kelse,
->>And in't fall love.
+>**Comman:**
+>I till not dispise this face shun by here.
+>Thus deed, sit with his that based and famous;
+>Sworn'd then, it is were man envy kelse,
+>And in't fall love.
